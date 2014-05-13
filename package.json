@@ -1,0 +1,26 @@
+{
+  "name": "thirdrating-jquery",
+  "version": "0.0.1",
+  "description": "third rating(tm) jQuery plugin",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jjaffe/thirdrating-jquery.git"
+  },
+  "keywords": [
+    "thirdrating"
+  ],
+  "author": "Jonathan Jaffe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjaffe/thirdrating-jquery/issues"
+  },
+  "homepage": "https://github.com/jjaffe/thirdrating-jquery",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0"
+  }
+}

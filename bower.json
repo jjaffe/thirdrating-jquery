@@ -1,0 +1,21 @@
+{
+  "name": "thirdrating-jquery",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jjaffe/thirdrating-jquery",
+  "authors": [
+    "Jonathan Jaffe <jjaffe@thirdrating.com>"
+  ],
+  "description": "third rating(tm) jQuery plugin",
+  "main": "/js/thirdrating-jquery.js",
+  "keywords": [
+    "thirdrating"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
