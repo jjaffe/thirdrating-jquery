@@ -11,6 +11,8 @@
   "node": true,
   "asi": true,
   "globals": {
+    "window": false,
+    "jQuery": false,
     "afterEach": false,
     "beforeEach": false,
     "confirm": false,
